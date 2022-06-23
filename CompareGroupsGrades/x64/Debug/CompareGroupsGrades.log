@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Desktop\github projeler\Comparing-The-Grades-of-the-Groups\CompareGroupsGrades\main.cpp(29,14): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  CompareGroupsGrades.vcxproj -> D:\Desktop\github projeler\Comparing-The-Grades-of-the-Groups\CompareGroupsGrades\x64\Debug\CompareGroupsGrades.exe
